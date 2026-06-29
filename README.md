@@ -64,12 +64,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
 </div>
 
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Shivamkumar181/Shivamkumar181/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <h5 data-importer="text" align="left">Let's build something great together.</h5>
-
-###
