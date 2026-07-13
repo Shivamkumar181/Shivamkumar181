@@ -80,11 +80,3 @@
 
 <h5 data-importer="text" align="left">Let's build something great together.</h5>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivamkumar181/Shivamkumar181/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivamkumar181/Shivamkumar181/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shivamkumar181/Shivamkumar181/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
