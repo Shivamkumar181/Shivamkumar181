@@ -64,18 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
   <img width="12" />
 
-<img width="500" height="500" alt="620970417-bb329d09-1b1a-4e10-bd3a-08e6c945c7a3-removebg-preview" src="https://github.com/user-attachments/assets/b5592611-8f9f-4036-a19e-0ff52fbbc2a4" />
-
-
-
-
-<img width="12" />
-<img width="100" height="60" alt="image" src="https://github.com/user-attachments/assets/7f2a562e-992b-4c10-89a9-b98118500784" style="background: transparent;" />
-<img width="12" />
-<img width="90" height="60" alt="image" src="https://github.com/user-attachments/assets/3f192894-8d0d-4ce6-a8dc-17fdcaec96ab" style="background: transparent;" />
-<img width="12" />
-<img width="90" height="60" alt="image" src="https://github.com/user-attachments/assets/9b30ca97-998b-4be0-b955-5acdcdd0f826" style="background: transparent;" />
-
 
 </div>
 
