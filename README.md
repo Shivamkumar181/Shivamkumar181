@@ -63,7 +63,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
   <img width="12" />
-  <img width="70" height="60" alt="image" src="https://github.com/user-attachments/assets/bb329d09-1b1a-4e10-bd3a-08e6c945c7a3" style="background: transparent;" />
+<img width="70" height="60" alt="620970417-bb329d09-1b1a-4e10-bd3a-08e6c945c7a3-removebg-preview" src="https://github.com/user-attachments/assets/3e0912ec-0c2e-4652-9e22-1f3e1f35e7fe" />
 <img width="12" />
 <img width="100" height="60" alt="image" src="https://github.com/user-attachments/assets/7f2a562e-992b-4c10-89a9-b98118500784" style="background: transparent;" />
 <img width="12" />
