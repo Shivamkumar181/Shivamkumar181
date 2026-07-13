@@ -63,15 +63,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/bb329d09-1b1a-4e10-bd3a-08e6c945c7a3" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bb329d09-1b1a-4e10-bd3a-08e6c945c7a3" />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/7f2a562e-992b-4c10-89a9-b98118500784" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7f2a562e-992b-4c10-89a9-b98118500784" />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/3f192894-8d0d-4ce6-a8dc-17fdcaec96ab" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3f192894-8d0d-4ce6-a8dc-17fdcaec96ab" />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/ba997120-af2e-480b-8b7c-b6ebfe67d807" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ba997120-af2e-480b-8b7c-b6ebfe67d807" />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/06e13a76-1aa5-4c04-a51b-62cef1f2d1ff" />
+  <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/9b30ca97-998b-4be0-b955-5acdcdd0f826" />
+
 </div>
 
 <h5 data-importer="text" align="left">Let's build something great together.</h5>
